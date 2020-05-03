@@ -1,0 +1,25 @@
+body{
+    background-image:url(nature.jpg) ;
+    background-repeat: no-repeat;
+  background-size: cover;
+    
+}
+
+.input{
+    border-radius: 20px;
+    margin-top: 200px;
+    text-align: center;
+    padding: 10px;
+    width: 300px;
+}
+
+.button{
+    border-radius: 30px;
+    background-color: darkmagenta;
+    font-size: large;
+}
+.paragraph{
+    color:#ffff;
+font-weight: bold;
+    margin-right: 50px;
+}
